@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Todo List App</string>
+    <string name="edit_task_description">Describe your task&#8230;</string>
+    <string name="add_button">Add New Task</string>
+</resources>
