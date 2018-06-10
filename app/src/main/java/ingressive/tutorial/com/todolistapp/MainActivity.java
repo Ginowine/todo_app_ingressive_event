@@ -26,16 +26,14 @@ public class MainActivity extends AppCompatActivity {
     //Declare button and EditText Objects
     private Button addTaskButton;
     private EditText taskDescription;
-
-    //Declare a variable to hold the Firebase database URL
-    //public static final String FirebaseDatabaseURL = "https://todo-list-app-3938a.firebaseio.com";
+    
 
     // Firebase database Reference
     private DatabaseReference mDatabase;
 
 
     // Declare variable to store input from EditText
-    public String task;
+    //public String task;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
